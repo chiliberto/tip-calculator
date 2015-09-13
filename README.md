@@ -7,13 +7,16 @@ Time: I spent about an hour.
 ## What does the app do?
 
 * [x] Required: A user can calculate the tip, using diferent percentages 
-* [ ] Optional: Playing with different animations: backgrounds, centers, alphas...
-* [ ] Optional: Using different images
-* [ ] Optional: Tint of elements on changing percentages
-* [ ] Optional: App icon and launch images
 
 Walkthrough of the app:
 
 ![Video Walkthrough](tips.gif)
+
+#Optional things I’d still like to do:
+
+* [ ] Optional: Playing with different animations: backgrounds, centers, alphas...
+* [ ] Optional: Using different images
+* [ ] Optional: Tint of elements on changing percentages
+* [ ] Optional: App icon and launch images
 
 The GIF was created with [LiceCap](http://www.cockos.com/licecap/).
